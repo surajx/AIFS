@@ -25,7 +25,7 @@ This is a long running course that is focused on building up concepts and ideas,
    * Generative models
      * VAE, GAN etc.
 
-Recommended Texts:
+Recommended reading material:
 
 Math
 * Introduction to Linear Algebra, Gilbert Strang.
