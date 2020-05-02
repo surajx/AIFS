@@ -1,23 +1,25 @@
 # AI From Scratch
 AI from Scratch is a lecture series run by [Hessian AI Labs](https://www.hessianailabs.com.au) in association with the AI for Society (AIFS), Sydney chapter. The goal is to up-skill or re-skill the workforce to empower them with the capability to leverage the power of data and AI.
-Lectures: Wed 8-9pm and Sun 10-12am AEST, Google Hangouts
+### Lectures:
+Wed 9:15-10:30pm AEST
+Sun 10-12am AEST
 
-This is a long running course that is focused on building up concepts and ideas, including the necessary math, *from scratch*. Initially, we'll focus on covering only the bare minimum math necessary for Machine Learning. Further to this, the math is developed as and when required. Course structure is as follows:
+### Google Hangouts:
+If you're interested in joining the session drop me a line at suraj@hessianailabs.com
 
-1. Mathematical Background
-   * Set theory, Numbers, Spaces
-   * Linear Algebra Fundamentals
-   * Probability and Statistics
-   * Information Theory
-   * Calculus
-2. Machine Learning
+This is a long running course that is focused on building up concepts and ideas, including the necessary math, *from scratch*. Initially, we'll focus on building the intuition for Machine Learning while developing the math in parallel. Course structure is as follows:
+
+1. Machine Learning Basics
+   * Introduction to Learning Algorithms
+   * Foundational ML concepts
+2. Machine Learning Algorithms
    * Linear Models
    * Non-linear Models (Neural Networks)
    * Kernel Methods
    * Graphical Models
    * Latent Variable Models
    * Approximate Inference and Sampling
-   * Dimensionality Reduction 
+   * Dimensionality Reduction
 3. Deep Learning
    * Visual data based models
      * CNN etc.
